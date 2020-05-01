@@ -14,7 +14,7 @@ function reverse(s){
   }else{
     container2.style.display = "flex";
   }
-}
+} 
  
 function set(el,text){
  while(el.firstChild)el.removeChild(el.firstChild);
